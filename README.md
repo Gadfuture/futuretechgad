@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FUTURETECHGAD
 
 Android-first mining and coin trading web app built with Next.js and Supabase.
@@ -76,3 +77,6 @@ netlify env:set NEXT_PUBLIC_SUPABASE_ANON_KEY your_supabase_anon_key
 netlify env:set SUPABASE_SERVICE_ROLE_KEY your_service_role_key
 netlify deploy --build --prod
 ```
+=======
+# futuretechgad
+>>>>>>> b5474d3fdad746d89bbd37a98c96d931cfa1ebef
