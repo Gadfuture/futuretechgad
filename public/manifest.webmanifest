@@ -1,0 +1,18 @@
+{
+  "name": "FUTURETECHGAD",
+  "short_name": "FTG",
+  "description": "Android-first mining, miner upgrades, coin trading, and withdrawal requests.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030407",
+  "theme_color": "#030407",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

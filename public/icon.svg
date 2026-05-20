@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="FUTURETECHGAD">
+  <rect width="512" height="512" rx="80" fill="#030407"/>
+  <circle cx="256" cy="256" r="178" fill="#62f4a2"/>
+  <circle cx="256" cy="256" r="142" fill="#0b1015"/>
+  <path d="M138 174h236v54H205v47h139v52H205v105h-67V174Z" fill="#f2f6ff"/>
+  <path d="M313 274h77v54h-77v-54Z" fill="#54e2ff"/>
+  <path d="M340 96h48v48h-48V96ZM123 368h48v48h-48v-48Z" fill="#f7cb55"/>
+</svg>
